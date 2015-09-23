@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: e9186d294c422eb49bf2a6d6b7d6a97b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character EXPORT 2_0
+    21300002: Character EXPORT 2_1
+    21300004: Character EXPORT 2_2
+    21300006: Character EXPORT 2_3
+    21300008: Character EXPORT 2_4
+    21300010: Character EXPORT 2_5
+    21300012: Character EXPORT 2_6
+    21300014: Character EXPORT 2_7
+    21300016: Character EXPORT 2_8
+    21300018: Character EXPORT 2_9
+    21300020: Character EXPORT 2_10
+    21300022: Character EXPORT 2_11
+    21300024: Character EXPORT 2_12
+    21300026: Character EXPORT 2_13
+    21300028: Character EXPORT 2_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character EXPORT 2_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 851
+        width: 101
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 730
+        width: 97
+        height: 101
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 647
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 529
+        width: 36
+        height: 88
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 612
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_5
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 603
+        width: 36
+        height: 88
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 555
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_7
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 517
+        width: 92
+        height: 32
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 405
+        width: 26
+        height: 86
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 355
+        width: 47
+        height: 76
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 355
+        width: 50
+        height: 76
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 253
+        width: 40
+        height: 76
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 253
+        width: 44
+        height: 76
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 200
+        width: 76
+        height: 32
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character EXPORT 2_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 200
+        width: 75
+        height: 32
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

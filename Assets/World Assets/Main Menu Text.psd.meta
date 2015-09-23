@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 4676aff9600ff0f42947746ef30a89c9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Main Menu Text_0
+    21300002: Main Menu Text_1
+    21300004: Main Menu Text_2
+    21300006: Main Menu Text_3
+    21300008: Main Menu Text_4
+    21300010: Main Menu Text_5
+    21300012: Main Menu Text_6
+    21300014: Main Menu Text_7
+    21300016: Main Menu Text_8
+    21300018: Main Menu Text_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Main Menu Text_0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1706
+        width: 82
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1704
+        width: 121
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1464
+        width: 122
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1466
+        width: 129
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1236
+        width: 683
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 193, z: 0, w: 0}
+    - name: Main Menu Text_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 825
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 405
+        width: 763
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 825
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1030
+        width: 654
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Main Menu Text_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 602
+        width: 624
+        height: 414
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
